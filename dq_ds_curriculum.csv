@@ -1,0 +1,166 @@
+,,mission
+Step 1,Python for Data Science: Fundamentals,Programming in Python
+Step 1,Python for Data Science: Fundamentals,Variables and Data Types
+Step 1,Python for Data Science: Fundamentals,Lists and For Loops
+Step 1,Python for Data Science: Fundamentals,Conditional Statements
+Step 1,Python for Data Science: Fundamentals,Dictionaries and Frequency Tables
+Step 1,Python for Data Science: Fundamentals,Functions: Fundamentals
+Step 1,Python for Data Science: Fundamentals,Functions: Intermediate
+Step 1,Python for Data Science: Fundamentals,Project: Learn and Install Jupyter Notebook
+Step 1,Python for Data Science: Fundamentals,Guided Project: Profitable App Profiles for the App Store and Google Play Markets
+Step 1,Python for Data Science: Intermediate,Cleaning and Preparing Data in Python
+Step 1,Python for Data Science: Intermediate,Python Data Analysis Basics
+Step 1,Python for Data Science: Intermediate,Object-Oriented Python
+Step 1,Python for Data Science: Intermediate,Working with Dates and Times in Python
+Step 1,Python for Data Science: Intermediate,Guided Project: Exploring Hacker News Posts
+Step 2,Pandas and NumPy Fundamentals,Introduction to NumPy
+Step 2,Pandas and NumPy Fundamentals,Boolean Indexing with NumPy
+Step 2,Pandas and NumPy Fundamentals,Introduction to pandas
+Step 2,Pandas and NumPy Fundamentals,Exploring Data with pandas: Fundamentals
+Step 2,Pandas and NumPy Fundamentals,Exploring Data with pandas: Intermediate
+Step 2,Pandas and NumPy Fundamentals,Data Cleaning Basics
+Step 2,Pandas and NumPy Fundamentals,Guided Project: Exploring Ebay Car Sales Data
+Step 2,Exploratory Data Visualization,Line Charts
+Step 2,Exploratory Data Visualization,Multiple plots
+Step 2,Exploratory Data Visualization,Bar Plots And Scatter Plots
+Step 2,Exploratory Data Visualization,Histograms And Box Plots
+Step 2,Exploratory Data Visualization,Guided Project: Visualizing Earnings Based On College Majors
+Step 2,Storytelling Through Data Visualization,Improving Plot Aesthetics
+Step 2,Storytelling Through Data Visualization,"Color, Layout, and Annotations"
+Step 2,Storytelling Through Data Visualization,Guided Project: Visualizing The Gender Gap In College Degrees
+Step 2,Storytelling Through Data Visualization,Conditional Plots
+Step 2,Data Cleaning and Analysis,Data Aggregation
+Step 2,Data Cleaning and Analysis,Combining Data With Pandas
+Step 2,Data Cleaning and Analysis,Transforming Data With Pandas
+Step 2,Data Cleaning and Analysis,Working With Strings In Pandas
+Step 2,Data Cleaning and Analysis,Working With Missing And Duplicate Data
+Step 2,Data Cleaning and Analysis,Guided Project: Clean And Analyze Employee Exit Surveys
+Step 2,Data Cleaning in Python: Advanced,Regular Expression Basics
+Step 2,Data Cleaning in Python: Advanced,Advanced Regular Expressions
+Step 2,Data Cleaning in Python: Advanced,List Comprehensions and Lambda Functions
+Step 2,Data Cleaning in Python: Advanced,Working with Missing Data
+Step 2,Data Cleaning Project Walkthrough,Data Cleaning Walkthrough
+Step 2,Data Cleaning Project Walkthrough,Data Cleaning Walkthrough: Combining the Data
+Step 2,Data Cleaning Project Walkthrough,Data Cleaning Walkthrough: Analyzing and Visualizing the Data
+Step 2,Data Cleaning Project Walkthrough,Guided Project: Analyzing NYC High School Data
+Step 2,Data Cleaning Project Walkthrough,Challenge: Cleaning Data
+Step 2,Data Cleaning Project Walkthrough,Guided Project: Star Wars Survey
+Step 3,Elements of the Command Line,Introduction to the Command Line
+Step 3,Elements of the Command Line,The Filesystem
+Step 3,Elements of the Command Line,Modifying the Filesystem
+Step 3,Elements of the Command Line,Glob Patterns and Wildcards
+Step 3,Elements of the Command Line,Users and Permissions
+Step 3,Text Processing in the Command Line,Getting Help and Reading Documentation
+Step 3,Text Processing in the Command Line,File Inspection
+Step 3,Text Processing in the Command Line,Text Processing
+Step 3,Text Processing in the Command Line,Redirection and Pipelines
+Step 3,Text Processing in the Command Line,Standard Streams and File Descriptors
+Step 4,SQL Fundamentals,Introduction to SQL
+Step 4,SQL Fundamentals,Summary Statistics
+Step 4,SQL Fundamentals,Group Summary Statistics
+Step 4,SQL Fundamentals,Subqueries
+Step 4,SQL Fundamentals,Guided Project: Analyzing CIA Factbook Data Using SQL
+Step 4,Intermediate SQL for Data Analysis,Joining Data in SQL
+Step 4,Intermediate SQL for Data Analysis,Intermediate Joins in SQL
+Step 4,Intermediate SQL for Data Analysis,Building and Organizing Complex Queries
+Step 4,Intermediate SQL for Data Analysis,Guided Project: Answering Business Questions using SQL
+Step 4,Intermediate SQL for Data Analysis,Table Relations and Normalization
+Step 4,Intermediate SQL for Data Analysis,Querying SQLite from Python
+Step 4,APIs and Web Scraping in Python,Working with APIs
+Step 4,APIs and Web Scraping in Python,Intermediate APIs
+Step 4,APIs and Web Scraping in Python,Challenge: Working with the reddit API
+Step 4,APIs and Web Scraping in Python,Web Scraping
+Step 4,Data Analysis in Business,Fuzzy Language in Data Science
+Step 4,Data Analysis in Business,Communicating Results
+Step 4,Data Analysis in Business,Business Metrics
+Step 4,Data Analysis in Business,Guided Project: Popular Data Science Questions
+Step 5,Statistics Fundamentals,Sampling
+Step 5,Statistics Fundamentals,Variables in Statistics
+Step 5,Statistics Fundamentals,Frequency Distributions
+Step 5,Statistics Fundamentals,Visualizing Frequency Distributions
+Step 5,Statistics Fundamentals,Comparing Frequency Distributions
+Step 5,Statistics Fundamentals,Guided Project: Investigating Fandango Movie Ratings
+Step 5,Statistics Intermediate: Averages and Variability,The Mean
+Step 5,Statistics Intermediate: Averages and Variability,The Weighted Mean and the Median
+Step 5,Statistics Intermediate: Averages and Variability,The Mode
+Step 5,Statistics Intermediate: Averages and Variability,Measures of Variability
+Step 5,Statistics Intermediate: Averages and Variability,Z-scores
+Step 5,Statistics Intermediate: Averages and Variability,Guided Project: Finding the Best Markets to Advertise In
+Step 5,Probability: Fundamentals,Estimating Probabilities
+Step 5,Probability: Fundamentals,Probability Rules
+Step 5,Probability: Fundamentals,Solving Complex Probability Problems
+Step 5,Probability: Fundamentals,Permutations and Combinations
+Step 5,Probability: Fundamentals,Guided Project: Mobile App for Lottery Addiction
+Step 5,Conditional Probability,Conditional Probability: Fundamentals
+Step 5,Conditional Probability,Conditional Probability: Intermediate
+Step 5,Conditional Probability,Bayes Theorem
+Step 5,Conditional Probability,The Naive Bayes Algorithm
+Step 5,Conditional Probability,Guided Project: Building a Spam Filter with Naive Bayes
+Step 5,Hypothesis Testing: Fundamentals,Significance Testing
+Step 5,Hypothesis Testing: Fundamentals,Chi-squared tests
+Step 5,Hypothesis Testing: Fundamentals,Multi category chi-squared tests
+Step 5,Hypothesis Testing: Fundamentals,Guided Project: Winning Jeopardy
+Step 6,Machine Learning Fundamentals,Introduction to K-Nearest Neighbors
+Step 6,Machine Learning Fundamentals,Evaluating Model Performance
+Step 6,Machine Learning Fundamentals,Multivariate K-Nearest Neighbors
+Step 6,Machine Learning Fundamentals,Hyperparameter Optimization
+Step 6,Machine Learning Fundamentals,Cross Validation
+Step 6,Machine Learning Fundamentals,Guided Project: Predicting Car Prices
+Step 6,Calculus For Machine Learning,Understanding Linear and Nonlinear Functions
+Step 6,Calculus For Machine Learning,Understanding Limits
+Step 6,Calculus For Machine Learning,Finding Extreme Points
+Step 6,Linear Algebra For Machine Learning,Linear Systems
+Step 6,Linear Algebra For Machine Learning,Vectors
+Step 6,Linear Algebra For Machine Learning,Matrix Algebra
+Step 6,Linear Algebra For Machine Learning,Solution Sets
+Step 6,Linear Regression For Machine Learning,The Linear Regression Model
+Step 6,Linear Regression For Machine Learning,Feature Selection
+Step 6,Linear Regression For Machine Learning,Gradient Descent
+Step 6,Linear Regression For Machine Learning,Ordinary Least Squares
+Step 6,Linear Regression For Machine Learning,Processing And Transforming Features
+Step 6,Linear Regression For Machine Learning,Guided Project: Predicting House Sale Prices
+Step 6,Machine Learning in Python: Intermediate,Logistic regression
+Step 6,Machine Learning in Python: Intermediate,Introduction to evaluating binary classifiers
+Step 6,Machine Learning in Python: Intermediate,Multiclass classification
+Step 6,Machine Learning in Python: Intermediate,Overfitting
+Step 6,Machine Learning in Python: Intermediate,Clustering basics
+Step 6,Machine Learning in Python: Intermediate,K-means clustering
+Step 6,Machine Learning in Python: Intermediate,Guided Project: Predicting the stock market
+Step 6,Decision Trees,Introduction to Decision Trees
+Step 6,Decision Trees,Building a Decision Tree
+Step 6,Decision Trees,Applying Decision Trees
+Step 6,Decision Trees,Introduction to Random Forests
+Step 6,Decision Trees,Guided Project: Predicting Bike Rentals
+Step 7,Deep Learning Fundamentals,Representing Neural Networks
+Step 7,Deep Learning Fundamentals,Nonlinear Activation Functions
+Step 7,Deep Learning Fundamentals,Hidden Layers
+Step 7,Deep Learning Fundamentals,Guided Project: Building A Handwritten Digits Classifier
+Step 7,Machine Learning Project,Machine Learning Project Walkthrough: Data Cleaning
+Step 7,Machine Learning Project,Machine Learning Project Walkthrough: Preparing the features
+Step 7,Machine Learning Project,Machine Learning Project Walkthrough: Making Predictions
+Step 7,Kaggle Fundamentals,Getting Started with Kaggle
+Step 7,Kaggle Fundamentals,"Feature Preparation, Selection and Engineering"
+Step 7,Kaggle Fundamentals,Model Selection and Tuning
+Step 7,Kaggle Fundamentals,Guided Project: Creating a Kaggle Workflow
+Step 8,Functions: Advanced,Best Practices for Writing Functions
+Step 8,Functions: Advanced,Context Managers
+Step 8,Functions: Advanced,Introduction to Decorators
+Step 8,Functions: Advanced,Decorators: Advanced
+Step 8,Command Line: Intermediate,Working with Programs
+Step 8,Command Line: Intermediate,Command Line Python Scripting
+Step 8,Command Line: Intermediate,Challenge: Working with the Command Line
+Step 8,Command Line: Intermediate,Working with Jupyter console
+Step 8,Command Line: Intermediate,Piping and redirecting output
+Step 8,Command Line: Intermediate,Challenge: Data Munging Using The Command Line
+Step 8,Command Line: Intermediate,Data Cleaning and Exploration Using Csvkit
+Step 8,Git and Version Control,Introduction to Git
+Step 8,Git and Version Control,Git Remotes
+Step 8,Git and Version Control,Git Branches
+Step 8,Git and Version Control,Merge Conflicts
+Step 8,Git and Version Control,Project: Git Installation and GitHub Integration
+Step 8,Spark and Map-Reduce,Introduction to Spark
+Step 8,Spark and Map-Reduce,Project: Spark Installation and Jupyter Notebook Integration
+Step 8,Spark and Map-Reduce,Transformations and Actions
+Step 8,Spark and Map-Reduce,Challenge: Transforming Hamlet into a Data Set
+Step 8,Spark and Map-Reduce,Spark DataFrames
+Step 8,Spark and Map-Reduce,Spark SQL
